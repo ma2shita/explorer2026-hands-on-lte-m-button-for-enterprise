@@ -112,7 +112,7 @@
 
    ![AIアクションの追加2](./image/03-14.png)
 
-2. モデルを選択（例では`Amazon Bedrock – Amazon Nova Lite`を選択）
+2. モデルを選択（例では`Amazon Bedrock – Amazon Nova Lite`を選択していますが、他のモデルを選んでも構いません。様々なモデルで遊んでみましょう✨）
 
    ![AIモデル](./image/03-15.png)
 
